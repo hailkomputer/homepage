@@ -17,4 +17,4 @@ jobs:
       env:
         RCLONE_CONF: ${{ secrets.RCLONE_CONF }}
       with:
-        args: sync public dex-s:test
+        args: sync public "dex-s":"test"
