@@ -1,4 +1,4 @@
-name: Build Hugo & Deploy to Swift
+name: Build & Deploy
 
 on:
   push:
