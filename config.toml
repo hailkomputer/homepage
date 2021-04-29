@@ -57,7 +57,7 @@ googleAnalytics = "UA-133807587-1"
 
   [[params.social]]
     name = "github"
-    url = "https://github.com/yigitetc"
+    url = "https://github.com/hailkomputer"
 
   [[params.social]]
     name = "linkedin"
