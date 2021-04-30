@@ -62,15 +62,3 @@ googleAnalytics = "UA-133807587-1"
   [[params.social]]
     name = "linkedin"
     url = "https://www.linkedin.com/in/yigitdemirbas/"
-
-# [menu]
-#
-#  [[menu.main]]
-#    name = "Posts"
-#    url = "posts/"
-#    weight = 10
-
-#  [[menu.main]]
-#    name = "About"
-#    url = "about/"
-#    weight = 20
